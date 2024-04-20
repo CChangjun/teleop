@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ihlab/catkin_ws_car/install_isolated/lib/python3/dist-packages",
+        "/home/ihlab/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/ihlab/catkin_ws/install_isolated/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ihlab/catkin_ws_car/install_isolated/lib/python3/dist-packages",
+        "/home/ihlab/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/ihlab/catkin_ws/install_isolated/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
